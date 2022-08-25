@@ -27,11 +27,11 @@
 
 1) Night Skyline
 
-![Night-skyline-screenshot](https://github.com/cheesehero112/Piano/raw/main/media/Piano-screenshot1.png)
+![Night-skyline-screenshot](https://github.com/cheesehero112/City_Skyline/raw/main/media/night-skyline-screenshot.png)
 
 2) Day Skyline
 
-![Day-skyline-screenshot](https://github.com/cheesehero112/Piano/raw/main/media/Piano-screenshot2.png)
+![Day-skyline-screenshot](https://github.com/cheesehero112/City_Skyline/raw/main/media/Day-skyline-screenshot.png)
 
 ## References
 
